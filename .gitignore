@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+snaps/
+outputs/
+data/
+# keep samples small if you add them

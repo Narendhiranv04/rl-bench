@@ -1,0 +1,25 @@
+name: rlbench
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pyquaternion
+  - pyyaml
+  - opencv
+  - scikit-image
+  - matplotlib
+  - tqdm
+  - pillow
+  - cffi
+  - imageio
+  - scipy
+  - protobuf
+  - h5py
+  - pyrep
+  - rlbench
+  - transforms3d
+  - gymnasium
+  - natsort
+  - git-lfs
+prefix: /home2/narendhi.vijayaku/.conda/envs/rlbench
